@@ -2,7 +2,7 @@
   "name": "socialplatformanish",
   "version": "1.0.0",
   "description": "Social Netework for Learning",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server",
     "server": "nodemon server",
